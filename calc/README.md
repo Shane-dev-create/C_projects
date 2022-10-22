@@ -11,7 +11,7 @@
 - [How To Use](#how-to-use)
 - [References](#references)
 - [License](#license)
-- [Author Info](#author-info)
+- [Author](#author)
 
 ---
 
@@ -39,7 +39,8 @@ C
 
 #### Download the source code and compile  
 make calc_v1 (in Visual Studio Code) or:  
-gcc --std=c17 -Wall -pedantic -o calc_v1 calc_c.c (in Mac or Linux terminal)
+gcc --std=c17 -Wall -pedantic -o calc_v1 calc_c.c  (in Mac or Linux terminal)  
+gcc --std=c17 -Wall -pedantic calc_v1 -o  (in Mac or Linux terminal)
 
 [Back To The Top](#calculator)
 
