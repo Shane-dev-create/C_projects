@@ -1,5 +1,5 @@
 # Calculator
-![Calculating](https://media.tenor.com/bxeM9N2IXLsAAAAC/osita-osita-iheme.gif)
+![Calculating](https://media.tenor.com/CrcbFRrvFCMAAAAC/monkey-calculate.gif)
 
 
 
