@@ -1,5 +1,5 @@
 # Calculator
-![Project Image](project-image-url)
+![Calculating](https://giphy.com/gifs/moodman-fRhSHzQ4NXOdrHIZJd)
 
 
 
@@ -35,10 +35,10 @@ C
 -The user is then presenting with a choice of arithmetical operations to perfom. So far functionality is very basic, we just have Addition (+), Subtraction (-), Multiplication (*) and Division (/) available (More to come in future).  
 -The user makes their choice and then gets prompted to enter the operands of the calculations. The results of the calculations are printed out and the user is prompted to either continue doing calculations or exit the program.
 
-#### Installation
+### Installation
 
-Download the source code and compile  
-make calc_v1 (in Visual Studio Code) or:
+#### Download the source code and compile  
+make calc_v1 (in Visual Studio Code) or:  
 gcc --std=c17 -Wall -pedantic -o calc_v1 calc_c.c (in Mac or Linux terminal)
 
 [Back To The Top](#calculator)
