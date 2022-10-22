@@ -1,5 +1,5 @@
 # Calculator
-![Calculating](https://giphy.com/gifs/moodman-fRhSHzQ4NXOdrHIZJd)
+![Calculating](https://media.tenor.com/bxeM9N2IXLsAAAAC/osita-osita-iheme.gif)
 
 
 
